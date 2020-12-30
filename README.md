@@ -1,2 +1,2 @@
-# shoppinglist_reactnative
-react native ios build
+# shoppinglist_vue
+vue build
